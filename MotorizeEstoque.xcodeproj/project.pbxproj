@@ -25,6 +25,17 @@
 		6C8DB4B521BC4F09004AD5F8 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C8DB4B421BC4F09004AD5F8 /* HomeViewController.swift */; };
 		6CAD364021BFEE39003BACF4 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CAD363F21BFEE39003BACF4 /* LoginViewController.swift */; };
 		6CAD364321BFEE9D003BACF4 /* Acesso.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CAD364221BFEE9D003BACF4 /* Acesso.swift */; };
+		6CD844FA21C09B2A001DC9DA /* InfoPessoaisTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CD844F821C09B2A001DC9DA /* InfoPessoaisTableViewCell.swift */; };
+		6CD844FB21C09B2A001DC9DA /* InfoPessoaisTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6CD844F921C09B2A001DC9DA /* InfoPessoaisTableViewCell.xib */; };
+		6CD8450221C09D0A001DC9DA /* InfoFuncionarioTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CD8450021C09D0A001DC9DA /* InfoFuncionarioTableViewCell.swift */; };
+		6CD8450321C09D0A001DC9DA /* InfoFuncionarioTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6CD8450121C09D0A001DC9DA /* InfoFuncionarioTableViewCell.xib */; };
+		6CD8450521C15489001DC9DA /* CadastroViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CD8450421C15489001DC9DA /* CadastroViewController.swift */; };
+		6CD8450821C154BB001DC9DA /* EnderecoLojaTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CD8450621C154BB001DC9DA /* EnderecoLojaTableViewCell.swift */; };
+		6CD8450921C154BB001DC9DA /* EnderecoLojaTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6CD8450721C154BB001DC9DA /* EnderecoLojaTableViewCell.xib */; };
+		6CDAC74D21C15C1500BF908F /* CadastrarBtnTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CDAC74B21C15C1500BF908F /* CadastrarBtnTableViewCell.swift */; };
+		6CDAC74E21C15C1500BF908F /* CadastrarBtnTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6CDAC74C21C15C1500BF908F /* CadastrarBtnTableViewCell.xib */; };
+		6CDAC75321C15F5300BF908F /* TipoPessoaTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CDAC75121C15F5300BF908F /* TipoPessoaTableViewCell.swift */; };
+		6CDAC75421C15F5300BF908F /* TipoPessoaTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6CDAC75221C15F5300BF908F /* TipoPessoaTableViewCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -69,6 +80,17 @@
 		6C8DB4B421BC4F09004AD5F8 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		6CAD363F21BFEE39003BACF4 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		6CAD364221BFEE9D003BACF4 /* Acesso.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Acesso.swift; sourceTree = "<group>"; };
+		6CD844F821C09B2A001DC9DA /* InfoPessoaisTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoPessoaisTableViewCell.swift; sourceTree = "<group>"; };
+		6CD844F921C09B2A001DC9DA /* InfoPessoaisTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = InfoPessoaisTableViewCell.xib; sourceTree = "<group>"; };
+		6CD8450021C09D0A001DC9DA /* InfoFuncionarioTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoFuncionarioTableViewCell.swift; sourceTree = "<group>"; };
+		6CD8450121C09D0A001DC9DA /* InfoFuncionarioTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = InfoFuncionarioTableViewCell.xib; sourceTree = "<group>"; };
+		6CD8450421C15489001DC9DA /* CadastroViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CadastroViewController.swift; sourceTree = "<group>"; };
+		6CD8450621C154BB001DC9DA /* EnderecoLojaTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnderecoLojaTableViewCell.swift; sourceTree = "<group>"; };
+		6CD8450721C154BB001DC9DA /* EnderecoLojaTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = EnderecoLojaTableViewCell.xib; sourceTree = "<group>"; };
+		6CDAC74B21C15C1500BF908F /* CadastrarBtnTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CadastrarBtnTableViewCell.swift; sourceTree = "<group>"; };
+		6CDAC74C21C15C1500BF908F /* CadastrarBtnTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CadastrarBtnTableViewCell.xib; sourceTree = "<group>"; };
+		6CDAC75121C15F5300BF908F /* TipoPessoaTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipoPessoaTableViewCell.swift; sourceTree = "<group>"; };
+		6CDAC75221C15F5300BF908F /* TipoPessoaTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TipoPessoaTableViewCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,10 +159,9 @@
 		6C8DB47B21BC33E5004AD5F8 /* MotorizeEstoque */ = {
 			isa = PBXGroup;
 			children = (
+				6CD844F721C09ACA001DC9DA /* ViewControllers */,
+				6CD844F321C09A4C001DC9DA /* Cells */,
 				6CAD364121BFEE8A003BACF4 /* Models */,
-				6C10A32B21BC624800A200BF /* EstoqueCarroCell */,
-				6C10A32421BC532F00A200BF /* CellNomeLoja */,
-				6C8DB4AF21BC4515004AD5F8 /* CellHome */,
 				6C8DB47C21BC33E5004AD5F8 /* AppDelegate.swift */,
 				6C8DB47E21BC33E5004AD5F8 /* ViewController.swift */,
 				6C8DB48021BC33E5004AD5F8 /* Main.storyboard */,
@@ -148,9 +169,6 @@
 				6C8DB48821BC33E7004AD5F8 /* LaunchScreen.storyboard */,
 				6C8DB48B21BC33E7004AD5F8 /* Info.plist */,
 				6C8DB48321BC33E5004AD5F8 /* MotorizeEstoque.xcdatamodeld */,
-				6C8DB4B421BC4F09004AD5F8 /* HomeViewController.swift */,
-				6C10A32921BC5DD000A200BF /* EstoqueViewController.swift */,
-				6CAD363F21BFEE39003BACF4 /* LoginViewController.swift */,
 			);
 			path = MotorizeEstoque;
 			sourceTree = "<group>";
@@ -188,6 +206,101 @@
 				6CAD364221BFEE9D003BACF4 /* Acesso.swift */,
 			);
 			path = Models;
+			sourceTree = "<group>";
+		};
+		6CD844F321C09A4C001DC9DA /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				6CD844F621C09AAC001DC9DA /* CadastroFuncionarioCells */,
+				6CD844F521C09A8C001DC9DA /* CadastroLojaCells */,
+				6CD844F421C09A7B001DC9DA /* EstoqueHomeCells */,
+			);
+			path = Cells;
+			sourceTree = "<group>";
+		};
+		6CD844F421C09A7B001DC9DA /* EstoqueHomeCells */ = {
+			isa = PBXGroup;
+			children = (
+				6C10A32B21BC624800A200BF /* EstoqueCarroCell */,
+				6C10A32421BC532F00A200BF /* CellNomeLoja */,
+				6C8DB4AF21BC4515004AD5F8 /* CellHome */,
+			);
+			path = EstoqueHomeCells;
+			sourceTree = "<group>";
+		};
+		6CD844F521C09A8C001DC9DA /* CadastroLojaCells */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = CadastroLojaCells;
+			sourceTree = "<group>";
+		};
+		6CD844F621C09AAC001DC9DA /* CadastroFuncionarioCells */ = {
+			isa = PBXGroup;
+			children = (
+				6CDAC75021C15F2C00BF908F /* InfoTipoPessoa */,
+				6CD844FD21C09CD9001DC9DA /* InfoFuncionario */,
+				6CD844FC21C09CC9001DC9DA /* InfoPessoaisCells */,
+				6CD8450A21C154C1001DC9DA /* EnderecoLojaCells */,
+				6CDAC74F21C15C1B00BF908F /* CadastroActions */,
+			);
+			path = CadastroFuncionarioCells;
+			sourceTree = "<group>";
+		};
+		6CD844F721C09ACA001DC9DA /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				6C8DB4B421BC4F09004AD5F8 /* HomeViewController.swift */,
+				6C10A32921BC5DD000A200BF /* EstoqueViewController.swift */,
+				6CAD363F21BFEE39003BACF4 /* LoginViewController.swift */,
+				6CD8450421C15489001DC9DA /* CadastroViewController.swift */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		6CD844FC21C09CC9001DC9DA /* InfoPessoaisCells */ = {
+			isa = PBXGroup;
+			children = (
+				6CD844F821C09B2A001DC9DA /* InfoPessoaisTableViewCell.swift */,
+				6CD844F921C09B2A001DC9DA /* InfoPessoaisTableViewCell.xib */,
+			);
+			path = InfoPessoaisCells;
+			sourceTree = "<group>";
+		};
+		6CD844FD21C09CD9001DC9DA /* InfoFuncionario */ = {
+			isa = PBXGroup;
+			children = (
+				6CD8450021C09D0A001DC9DA /* InfoFuncionarioTableViewCell.swift */,
+				6CD8450121C09D0A001DC9DA /* InfoFuncionarioTableViewCell.xib */,
+			);
+			path = InfoFuncionario;
+			sourceTree = "<group>";
+		};
+		6CD8450A21C154C1001DC9DA /* EnderecoLojaCells */ = {
+			isa = PBXGroup;
+			children = (
+				6CD8450721C154BB001DC9DA /* EnderecoLojaTableViewCell.xib */,
+				6CD8450621C154BB001DC9DA /* EnderecoLojaTableViewCell.swift */,
+			);
+			path = EnderecoLojaCells;
+			sourceTree = "<group>";
+		};
+		6CDAC74F21C15C1B00BF908F /* CadastroActions */ = {
+			isa = PBXGroup;
+			children = (
+				6CDAC74C21C15C1500BF908F /* CadastrarBtnTableViewCell.xib */,
+				6CDAC74B21C15C1500BF908F /* CadastrarBtnTableViewCell.swift */,
+			);
+			path = CadastroActions;
+			sourceTree = "<group>";
+		};
+		6CDAC75021C15F2C00BF908F /* InfoTipoPessoa */ = {
+			isa = PBXGroup;
+			children = (
+				6CDAC75121C15F5300BF908F /* TipoPessoaTableViewCell.swift */,
+				6CDAC75221C15F5300BF908F /* TipoPessoaTableViewCell.xib */,
+			);
+			path = InfoTipoPessoa;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -296,10 +409,15 @@
 			files = (
 				6C8DB48A21BC33E7004AD5F8 /* LaunchScreen.storyboard in Resources */,
 				6C8DB48721BC33E7004AD5F8 /* Assets.xcassets in Resources */,
+				6CDAC74E21C15C1500BF908F /* CadastrarBtnTableViewCell.xib in Resources */,
+				6CD8450321C09D0A001DC9DA /* InfoFuncionarioTableViewCell.xib in Resources */,
 				6C10A32F21BC626000A200BF /* EstoqueCarroTableViewCell.xib in Resources */,
 				6C10A32821BC534F00A200BF /* NomeLojaTableViewCell.xib in Resources */,
+				6CD8450921C154BB001DC9DA /* EnderecoLojaTableViewCell.xib in Resources */,
 				6C8DB4B321BC45BF004AD5F8 /* EstoqueTableViewCell.xib in Resources */,
 				6C8DB48221BC33E5004AD5F8 /* Main.storyboard in Resources */,
+				6CDAC75421C15F5300BF908F /* TipoPessoaTableViewCell.xib in Resources */,
+				6CD844FB21C09B2A001DC9DA /* InfoPessoaisTableViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -324,14 +442,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6CD8450821C154BB001DC9DA /* EnderecoLojaTableViewCell.swift in Sources */,
 				6CAD364021BFEE39003BACF4 /* LoginViewController.swift in Sources */,
+				6CDAC75321C15F5300BF908F /* TipoPessoaTableViewCell.swift in Sources */,
+				6CD8450221C09D0A001DC9DA /* InfoFuncionarioTableViewCell.swift in Sources */,
 				6C10A32721BC534F00A200BF /* NomeLojaTableViewCell.swift in Sources */,
 				6C8DB4B521BC4F09004AD5F8 /* HomeViewController.swift in Sources */,
 				6CAD364321BFEE9D003BACF4 /* Acesso.swift in Sources */,
+				6CD844FA21C09B2A001DC9DA /* InfoPessoaisTableViewCell.swift in Sources */,
 				6C10A32E21BC626000A200BF /* EstoqueCarroTableViewCell.swift in Sources */,
+				6CDAC74D21C15C1500BF908F /* CadastrarBtnTableViewCell.swift in Sources */,
 				6C8DB47F21BC33E5004AD5F8 /* ViewController.swift in Sources */,
 				6C8DB47D21BC33E5004AD5F8 /* AppDelegate.swift in Sources */,
 				6C8DB4B221BC45BF004AD5F8 /* EstoqueTableViewCell.swift in Sources */,
+				6CD8450521C15489001DC9DA /* CadastroViewController.swift in Sources */,
 				6C8DB48521BC33E5004AD5F8 /* MotorizeEstoque.xcdatamodeld in Sources */,
 				6C10A32A21BC5DD000A200BF /* EstoqueViewController.swift in Sources */,
 			);
